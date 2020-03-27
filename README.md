@@ -1,1 +1,1 @@
-Задание 14
+Use script.js
